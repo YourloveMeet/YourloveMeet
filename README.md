@@ -32,8 +32,6 @@ I'm a full-stack engineer specializing in building production-grade web applicat
 
 ---
 
-## 🛠️ Tech Stack
-
 ## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -69,55 +67,47 @@ I'm a full-stack engineer specializing in building production-grade web applicat
 
 ## 🎨 Featured Projects
 
-### Fauna Rituals  
-Luxury Skincare E-commerce • React, Node.js, MongoDB  
-
-[![Repo](https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github)](https://github.com/YourloveMeet/Fauna-Rituals)
-[![Live](https://img.shields.io/badge/Live-Website-8B5CF6?style=flat&logo=vercel&logoColor=white)](https://faunarituals.com)
+### 🔗 Fauna Rituals  
+**Luxury Skincare E-commerce** • React, Node.js, MongoDB  
+[![Live](https://img.shields.io/badge/Live%20Site-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://faunarituals.com)
+[![Code](https://img.shields.io/badge/View%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourloveMeet/Fauna-Rituals)
 
 - Premium e-commerce platform with editorial design language  
 - Custom CMS, order management, and payment integration  
 - Internationally competitive design quality  
 
 
-### GearGuard  
-Industrial IoT SaaS • React, Express, AWS EC2, MongoDB  
-
-[![Repo](https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github)](https://github.com/YourloveMeet/GearGuard)
-<!-- Add live link if available -->
+### 🔗 GearGuard  
+**Industrial IoT SaaS** • React, Express, AWS EC2, MongoDB  
+[![Code](https://img.shields.io/badge/View%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourloveMeet/GearGuard)
 
 - Live production system for industrial equipment monitoring  
 - Real-time data visualization and alert systems  
 - Multi-tenant architecture with role-based access control  
 
 
-### Aliska Stones  
-Fine Jewelry E-commerce • React, Next.js, Node.js  
-
-[![Repo](https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github)](https://github.com/YourloveMeet/Aliska-Stones)
-<!-- Add live link if available -->
+### 🔗 Aliska Stones  
+**Fine Jewelry E-commerce** • React, Next.js, Node.js  
+[![Code](https://img.shields.io/badge/View%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourloveMeet/Aliska-Stones)
 
 - High-end jewelry platform with custom product configurator  
 - Advanced filtering, wishlist, and checkout flow  
 - Premium design with attention to microinteractions  
 
 
-### Meetronix Portfolio  
-Personal Brand Site • React, Node.js, AWS EC2  
-
-[![Repo](https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github)](https://github.com/YourloveMeet/Meetronix)
-[![Live](https://img.shields.io/badge/Live-Website-8B5CF6?style=flat&logo=vercel&logoColor=white)](https://meetronix.vercel.app)
+### 🔗 Meetronix Portfolio  
+**Personal Brand Site** • React, Node.js, AWS EC2  
+[![Live](https://img.shields.io/badge/Live%20Site-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://meetronix.vercel.app)
+[![Code](https://img.shields.io/badge/View%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourloveMeet/Meetronix)
 
 - Warm cream-terracotta design system  
 - Custom markdown blog engine  
 - SFTP deployment workflow on AWS EC2  
 
 
-### LuxeStays  
-Hotel Booking Platform • React, Next.js  
-
-[![Repo](https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github)](https://github.com/YourloveMeet/Hotel-Booking-Ds1)
-<!-- Add live link if available -->
+### 🔗 LuxeStays  
+**Hotel Booking Platform** • React, Next.js  
+[![Code](https://img.shields.io/badge/View%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourloveMeet/Hotel-Booking-Ds1)
 
 - Consumer hotel booking interface with search and filters  
 - Property details, reviews, and booking flow  
