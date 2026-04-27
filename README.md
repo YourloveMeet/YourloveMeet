@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8B5CF6&height=180&section=header&text=Meet%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8B5CF6&height=190&section=header&text=Meet%20Patel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 ### Full-Stack Engineer · AI Product Builder · Design-First Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=Shipping+production-grade+web+applications;Building+AI-powered+SaaS+products;Designing+premium+frontend+systems;Open+to+global+remote+engineering+roles"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+production-grade+web+applications;Shipping+AI-powered+SaaS+products;Designing+premium+frontend+systems;Open+to+global+remote+roles"/>
 
 <br/>
 
@@ -26,17 +26,27 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YourloveMeet&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF"/>
+<img src="https://komarev.com/ghpvc/?username=YourloveMeet&label=Profile%20Views&color=8B5CF6&style=flat"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourloveMeet&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
+<br/><br/>
+
+<p align="center">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=YourloveMeet&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF"/>
+
+<img height="165"
+src="https://streak-stats.demolab.com?user=YourloveMeet&theme=highcontrast&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=FFFFFF&background=000000"/>
+
+</p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourloveMeet&theme=github_dark_highcontrast"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YourloveMeet&label=Profile%20Views&color=8B5CF6&style=flat"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0D1117&height=120&section=footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0D1117&height=120&section=footer"/>
 
 
 ## 👨‍💻 About Me
