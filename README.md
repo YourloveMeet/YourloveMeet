@@ -37,7 +37,7 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0D1117&height=120&section=footer"/>
----
+
 
 ## 👨‍💻 About Me
 
