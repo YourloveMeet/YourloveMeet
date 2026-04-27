@@ -69,7 +69,7 @@ I'm a full-stack engineer specializing in building production-grade web applicat
 
 ### 🔗 Fauna Rituals  
 **Luxury Skincare E-commerce** • React, Node.js, MongoDB  
-[![Live](https://img.shields.io/badge/Live%20Site-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://faunarituals.com)
+[![Live](https://img.shields.io/badge/Live%20Site-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://fauna-rituals-meetronix.vercel.app/)
 [![Code](https://img.shields.io/badge/View%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourloveMeet/Fauna-Rituals)
 
 - Premium e-commerce platform with editorial design language  
@@ -79,6 +79,7 @@ I'm a full-stack engineer specializing in building production-grade web applicat
 
 ### 🔗 GearGuard  
 **Industrial IoT SaaS** • React, Express, AWS EC2, MongoDB  
+[![Live](https://img.shields.io/badge/Live%20Site-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://production-saas.vercel.app/)
 [![Code](https://img.shields.io/badge/View%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourloveMeet/GearGuard)
 
 - Live production system for industrial equipment monitoring  
@@ -88,6 +89,7 @@ I'm a full-stack engineer specializing in building production-grade web applicat
 
 ### 🔗 Aliska Stones  
 **Fine Jewelry E-commerce** • React, Next.js, Node.js  
+[![Live](https://img.shields.io/badge/Live%20Site-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://aliska-stones.vercel.app/)
 [![Code](https://img.shields.io/badge/View%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourloveMeet/Aliska-Stones)
 
 - High-end jewelry platform with custom product configurator  
@@ -107,6 +109,7 @@ I'm a full-stack engineer specializing in building production-grade web applicat
 
 ### 🔗 LuxeStays  
 **Hotel Booking Platform** • React, Next.js  
+[![Live](https://img.shields.io/badge/Live%20Site-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://hotelbooking-demo-sr1.vercel.app/)
 [![Code](https://img.shields.io/badge/View%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourloveMeet/Hotel-Booking-Ds1)
 
 - Consumer hotel booking interface with search and filters  
