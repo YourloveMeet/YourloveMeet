@@ -1,50 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8B5CF6&height=190&section=header&text=Meet%20Patel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8B5CF6&height=150&section=header&text=Meet%20Patel&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 ### Full-Stack Engineer · AI Product Builder · Design-First Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+production-grade+web+applications;Shipping+AI-powered+SaaS+products;Designing+premium+frontend+systems;Open+to+global+remote+roles"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+production-grade+web+apps;Shipping+AI-powered+SaaS+products;Designing+premium+frontend+systems"/>
 
 <br/>
 
 <a href="https://meetronix.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20Meetronix-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Meetronix-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/meetpatel044">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:meetpatel13579@gmail.com">
-<img src="https://img.shields.io/badge/Email-Direct%20Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://x.com/044meet">
 <img src="https://img.shields.io/badge/X-Updates-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=YourloveMeet&label=Profile%20Views&color=8B5CF6&style=flat"/>
 
-<br/><br/>
-
-<p align="center">
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=YourloveMeet&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF"/>
-
-<img height="165"
-src="https://streak-stats.demolab.com?user=YourloveMeet&theme=highcontrast&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=FFFFFF&background=000000"/>
-
-</p>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourloveMeet&theme=github_dark_highcontrast"/>
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0D1117&height=120&section=footer"/>
+<img height="150"
+src="https://github-readme-stats.vercel.app/api?username=YourloveMeet&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF"/>
+
+<img height="150"
+src="https://streak-stats.demolab.com?user=YourloveMeet&theme=highcontrast&hide_border=true&background=000000&ring=A78BFA&fire=A78BFA"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0D1117&height=90&section=footer"/>
 
 </div>
 
