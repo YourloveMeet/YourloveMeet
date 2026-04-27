@@ -1,30 +1,42 @@
 <div align="center">
 
-# Meet Patel
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8B5CF6&height=180&section=header&text=Meet%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-### Full-Stack Engineer • AI Product Builder • Design-Driven Developer
+### Full-Stack Engineer · AI Product Builder · Design-First Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+products;Shipping+production-ready+SaaS+systems;Designing+premium+user+experiences;Open+to+global+remote+roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=Shipping+production-grade+web+applications;Building+AI-powered+SaaS+products;Designing+premium+frontend+systems;Open+to+global+remote+engineering+roles"/>
 
 <br/>
 
 <a href="https://meetronix.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Meetronix-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore%20Meetronix-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/meetpatel044">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:meetpatel13579@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Direct%20Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://x.com/044meet">
+<img src="https://img.shields.io/badge/X-Updates-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YourloveMeet&label=Profile%20Views&color=8B5CF6&style=flat" />
+<img src="https://github-readme-stats.vercel.app/api?username=YourloveMeet&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourloveMeet&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YourloveMeet&label=Profile%20Views&color=8B5CF6&style=flat"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0D1117&height=120&section=footer"/>
 ---
 
 ## 👨‍💻 About Me
