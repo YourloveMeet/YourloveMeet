@@ -2,16 +2,29 @@
 
 # Meet Patel
 
-**Full-Stack Engineer & Product Designer**
+### Full-Stack Engineer • AI Product Builder • Design-Driven Developer
 
-Building AI-powered web experiences with exceptional design
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+products;Shipping+production-ready+SaaS+systems;Designing+premium+user+experiences;Open+to+global+remote+roles" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-meetronix.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://meetronix.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meet_Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meetpatel044)
-[![Email](https://img.shields.io/badge/Email-meetpatel13579%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meetpatel13579@gmail.com)
+<br/>
+
+<a href="https://meetronix.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Meetronix-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/meetpatel044">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:meetpatel13579@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YourloveMeet&label=Profile%20Views&color=8B5CF6&style=flat" />
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
