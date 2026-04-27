@@ -28,9 +28,6 @@
 <br/>
 
 <img height="150"
-src="https://github-readme-stats.vercel.app/api?username=YourloveMeet&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF"/>
-
-<img height="150"
 src="https://streak-stats.demolab.com?user=YourloveMeet&theme=highcontrast&hide_border=true&background=000000&ring=A78BFA&fire=A78BFA"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0D1117&height=90&section=footer"/>
