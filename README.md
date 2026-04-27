@@ -69,37 +69,59 @@ I'm a full-stack engineer specializing in building production-grade web applicat
 
 ## 🎨 Featured Projects
 
-### [Fauna Rituals](https://github.com/YourloveMeet/Fauna-Rituals) 
-**Luxury Skincare E-commerce** • React, Node.js, MongoDB
-- Premium e-commerce platform with editorial design language
-- Custom CMS, order management, and payment integration
-- Internationally competitive design quality
+### Fauna Rituals  
+Luxury Skincare E-commerce • React, Node.js, MongoDB  
 
-### [GearGuard](https://github.com/YourloveMeet/GearGuard)
-**Industrial IoT SaaS** • React, Express, AWS EC2, MongoDB
-- Live production system for industrial equipment monitoring
-- Real-time data visualization and alert systems
-- Multi-tenant architecture with role-based access control
+[![Repo](https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github)](https://github.com/YourloveMeet/Fauna-Rituals)
+[![Live](https://img.shields.io/badge/Live-Website-8B5CF6?style=flat&logo=vercel&logoColor=white)](https://faunarituals.com)
 
-### [Aliska Stones](https://github.com/YourloveMeet/Aliska-Stones)
-**Fine Jewelry E-commerce** • React, Next.js, Node.js
-- High-end jewelry platform with custom product configurator
-- Advanced filtering, wishlist, and checkout flow
-- Premium design with attention to microinteractions
+- Premium e-commerce platform with editorial design language  
+- Custom CMS, order management, and payment integration  
+- Internationally competitive design quality  
 
-### [Meetronix Portfolio](https://github.com/YourloveMeet/Meetronix)
-**Personal Brand Site** • React, Node.js, AWS EC2
-- Warm cream-terracotta design system
-- Custom markdown blog engine
-- SFTP deployment workflow on AWS EC2
 
-### [LuxeStays](https://github.com/YourloveMeet/Hotel-Booking-Ds1)
-**Hotel Booking Platform** • React, Next.js
-- Consumer hotel booking interface with search and filters
-- Property details, reviews, and booking flow
+### GearGuard  
+Industrial IoT SaaS • React, Express, AWS EC2, MongoDB  
+
+[![Repo](https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github)](https://github.com/YourloveMeet/GearGuard)
+<!-- Add live link if available -->
+
+- Live production system for industrial equipment monitoring  
+- Real-time data visualization and alert systems  
+- Multi-tenant architecture with role-based access control  
+
+
+### Aliska Stones  
+Fine Jewelry E-commerce • React, Next.js, Node.js  
+
+[![Repo](https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github)](https://github.com/YourloveMeet/Aliska-Stones)
+<!-- Add live link if available -->
+
+- High-end jewelry platform with custom product configurator  
+- Advanced filtering, wishlist, and checkout flow  
+- Premium design with attention to microinteractions  
+
+
+### Meetronix Portfolio  
+Personal Brand Site • React, Node.js, AWS EC2  
+
+[![Repo](https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github)](https://github.com/YourloveMeet/Meetronix)
+[![Live](https://img.shields.io/badge/Live-Website-8B5CF6?style=flat&logo=vercel&logoColor=white)](https://meetronix.vercel.app)
+
+- Warm cream-terracotta design system  
+- Custom markdown blog engine  
+- SFTP deployment workflow on AWS EC2  
+
+
+### LuxeStays  
+Hotel Booking Platform • React, Next.js  
+
+[![Repo](https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github)](https://github.com/YourloveMeet/Hotel-Booking-Ds1)
+<!-- Add live link if available -->
+
+- Consumer hotel booking interface with search and filters  
+- Property details, reviews, and booking flow  
 - Responsive design with modern UI patterns
-
----
 
 ## 📊 GitHub Stats
 
